@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TakumiMay/books-UItests#readme",
   "dependencies": {
-    "cypress": "^6.8.0"
+    "cypress": "^6.8.0",
+    "faker": "^5.5.1"
   }
 }
